@@ -1,0 +1,47 @@
+body {
+  width: 600px;
+  margin: auto;
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkorange;
+  font-family: "Times New Roman", serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h2, h3 {
+  color: blue;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background: content-box radial-gradient(salmon, skyblue);
+  height: 70px;
+}
+
+ul {
+  color: purple;
+}
+
+nav {
+  text-align: center;
+  font-family: Georgia, serif;
+  
+}
+
+img {
+  border-radius: 50%;
+}
+
+a {
+  font-family: Arial, serif;
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
